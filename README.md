@@ -1,4 +1,3 @@
-i didnt make this
 loadstring(game:HttpGet('https://raw.githubusercontent.com/SomeScripterInABasement/Fe2Tas/main/README.md'))()
 
 getgenv().script = function()
